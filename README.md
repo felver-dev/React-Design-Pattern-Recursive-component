@@ -1,4 +1,4 @@
-# This is a Recursive Component Design Pattern in React 
+# This is a Recursive Component Design Pattern example  in React 
 
 A recursive component in React is a component that calls itself, either directly or indirectly, as part of its render logic. Recursive components are particularly useful when dealing with hierarchical data structures such as trees, menus, nested comments, or file directories.
 
